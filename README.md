@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexpreet
+- 👋 Hi, I’m @prabh preet singh 
 - 👀 I’m interested in ...a bit of rom hacking 
 - 🌱 I’m currently learning ...a bit of romhack 
 - 💞️ I’m looking to collaborate on ...nothing as i dont know anything 
