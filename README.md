@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @prabh preet singh 
-- 👀 I’m interested in ...a bit of rom hacking 
-- 🌱 I’m currently learning ...a bit of romhack 
-- 💞️ I’m looking to collaborate on ...nothing as i dont know anything 
-- 📫 How to reach me ..
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...i am cs major that dont know how to do anything 
-so i am learning trying to do some shit 
-
+👋 Hi, I’m Prabhpreet Singh
+🐍 Python-focused developer learning through hands-on projects
+🧱 Build desktop GUI apps using Tkinter & CustomTkinter
+🌐 Work with real-world REST APIs (data fetching, parsing, errors)
+📊 Experience with data handling, logic building, and clean code structure
+🚀 Actively completing 30 Days / 30 Projects
+🧠 Believe in learning by building, breaking, and fixing
+📁 GitHub contains functional projects, not tutorial-only code
+📫 Open to feedback, collaboration, and opportunities
 <!---
 alexpreet/alexpreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
